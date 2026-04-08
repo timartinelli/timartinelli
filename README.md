@@ -3,11 +3,13 @@
 🚀 Salesforce | LATAM CRM Strategy | AI & Automation  
 Founder at TudoMarcadoAI  
 
+Building scalable CRM and AI-driven automation platforms across LATAM
+
 ---
 
 ## 🚀 About Me
 
-- 20+ years of experience in IT and CRM
+- 10+ years of experience in IT and CRM
 - Leading Salesforce strategy and governance across LATAM
 - Managing multi-org environments supporting 190+ users
 - Driving CRM migration and standardization aligned with global strategy
@@ -40,10 +42,10 @@ Founder at TudoMarcadoAI
 
 ## 💼 Featured Projects
 
-- 🔹 **TudoMarcadoAI Platform** – AI-driven business automation SaaS  
-- 🔹 **Salesforce File Migrator** – Data migration tool for Salesforce environments  
-- 🔹 **WhatsApp Sales Monitoring** – Real-time sales alerts via messaging automation  
-- 🔹 **AI Business Automation Platform** – n8n + APIs + AI workflows  
+- 🔹 [TudoMarcadoAI Platform](https://github.com/timartinelli/TudoMarcadoAI) – AI-driven business automation SaaS  
+- 🔹 [Salesforce File Migrator](https://github.com/timartinelli/salesforce-file-migrator) – Data migration tool for Salesforce environments  
+- 🔹 WhatsApp Sales Monitoring – Real-time sales alerts via messaging automation  
+- 🔹 AI Business Automation Platform – n8n + APIs + AI workflows  
 
 ---
 

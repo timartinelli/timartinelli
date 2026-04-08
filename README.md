@@ -7,7 +7,7 @@ Founder at TudoMarcadoAI
 
 ## 🚀 About Me
 
-- 10+ years of experience in IT and CRM
+- 20+ years of experience in IT and CRM
 - Leading Salesforce strategy and governance across LATAM
 - Managing multi-org environments supporting 190+ users
 - Driving CRM migration and standardization aligned with global strategy
